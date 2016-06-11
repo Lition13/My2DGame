@@ -1,1 +1,1 @@
-# My2DGame
+This is My 2D Game for learning UnityC#¡£
